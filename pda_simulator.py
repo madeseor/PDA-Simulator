@@ -1,12 +1,11 @@
 """
-=============================================================================
   PRÁCTICA #4 — AUTÓMATA DE PILA
   Lenguaje: L = { w^m a^n (i+j) d^n w^-m | n, m >= 0, w = (b+c)* }
-=============================================================================
+
   Uso en VSCode:
       python pda_simulator.py
   Se abrirá una ventana gráfica con la animación interactiva.
-=============================================================================
+
 """
 
 import matplotlib
